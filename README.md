@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rishav</h1>
-<h3 align="center">A passionate frontend developer, UI/UX designer from Nepal</h3> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=5000&color=F77474&center=true&random=true&width=435&lines=I+AM+Rishav+karmacharya;I+AM+UI%2FUX+designer;I+AM+Frontend+developer;I+AM+from+Nepal+" alt="Typing SVG" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nepalivai&label=Profile%20views&color=0e75b6&style=flat" alt="nepalivai" /> </p>
 
-## ABOUT ME
+## ABOUT ME 
+<a href="http://www.freepik.com"><img align="right" width="300" alt="Illustration of coding" src="https://github.com/nepalivai/nepalivai/assets/108126089/4ed0944b-742a-49f3-b114-77b7d5a989ba"></a>
 - 🔭 I’m currently working on **learning open sourcing.**
 
 - 🌱 I’m currently learning **react.**
