@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **react.**
 
-- 👯 I’m looking to collaborate on [Dhamboji school website.](https://dmbhigh.netlify.app/)
-
-- 🤝 I’m looking for help with [modern portfolio site.](https://www.figma.com/file/aZjGv8g79NBVAVbHXi8LmG/portflio-site?type=design&node-id=2%3A50&mode=design&t=5l527pcG0a9i4Tnp-1)
-
 - 💬 Ask me about **anything related to tech.**
 
 - 📫 How to reach me **nepalivai608@gmail.com**
