@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nepalivai&label=Profile%20views&color=0e75b6&style=flat" alt="nepalivai" /> </p>
 
 ## ABOUT ME 
-<a href="http://www.freepik.com"><img align="right" width="300" alt="Illustration of coding" src="https://github.com/nepalivai/nepalivai/assets/108126089/4ed0944b-742a-49f3-b114-77b7d5a989ba"></a>
+<a href="http://www.freepik.com"><img align="right" width="200" alt="Illustration of coding" src="https://github.com/nepalivai/nepalivai/assets/108126089/4ed0944b-742a-49f3-b114-77b7d5a989ba"></a>
 - 🔭 I’m currently working on **learning open sourcing.**
 
 - 🌱 I’m currently learning **react.**
